@@ -3,8 +3,8 @@ import threading
 import tkinter as tk
 from tkinter import scrolledtext
 
-HOST = "0.0.0.0"   # listen on all interfaces
-PORT = 5000
+SERVER_IP = "127.0.0.1"
+SERVER_PORT = 5000
 
 class LogServerApp:
     def __init__(self, root):
@@ -22,28 +22,14 @@ class LogServerApp:
         threading.Thread(target=self.start_server, daemon=True).start()
 
     def start_server(self):
-        """Start TCP server and receive logs"""
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            s.bind((HOST, PORT))
-            s.listen(5)
-            self.root.after(0, self.log, f"🔌 Server listening on {HOST}:{PORT}")
-            while self.running:
-                conn, addr = s.accept()
-                self.root.after(0, self.log, f"✅ Client connected: {addr}")
-                threading.Thread(target=self.handle_client, args=(conn,), daemon=True).start()
-
-    def handle_client(self, conn):
-        """Receive logs from one client"""
-        with conn:
-            while self.running:
-                try:
-                    data = conn.recv(1024)
-                    if not data:
-                        break
-                    msg = data.decode(errors="ignore").strip()
-                    self.root.after(0, self.log, msg)
-                except:
-                    break
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.connect((SERVER_IP, SERVER_PORT))
+        msgo = "5D4EE"
+        sock.sendall(msgo.encode())
+        while True:
+            chunk = sock.recv(4096)
+            data = chunk.decode(errors="ignore")
+            self.root.after(0, self.log, data)
 
     def log(self, message):
         """Print to GUI"""

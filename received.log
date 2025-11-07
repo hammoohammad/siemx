@@ -765,3 +765,1365 @@
 
 2025-10-17T07:07:09.585989Z ('127.0.0.1', 51410) [ACTIVE] py.exe
 
+2025-11-07T20:26:31.009009Z ('127.0.0.1', 53686) [OPENED] System Idle Process
+
+2025-11-07T20:26:31.027044Z ('127.0.0.1', 53686) [OPENED] System
+[OPENED] Registry
+[OPENED] smss.exe
+[OPENED] wininit.exe
+[OPENED] csrss.exe
+[OPENED] Code.exe
+[OPENED] services.exe
+[OPENED] winlogon.exe
+[OPENED] lsass.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] steamservice.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] taskhostw.exe
+[OPENED] fontdrvhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] RAVBg64.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] CompPkgSrv.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] NVDisplay.Container.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] smartscreen.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] py.exe
+[OPENED] msedge.exe
+[OPENED] nvcontainer.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] MemCompression
+[OPENED] igfxCUIService.exe
+[OPENED] Code.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.030032Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:26:31.031499Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:26:31.031985Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.032327Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.032668Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.033009Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.033347Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.034168Z ('127.0.0.1', 53686) [OPENED] msedgewebview2.exe
+
+2025-11-07T20:26:31.035594Z ('127.0.0.1', 53686) [OPENED] spoolsv.exe
+
+2025-11-07T20:26:31.037815Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.038471Z ('127.0.0.1', 53686) [OPENED] python.exe
+
+2025-11-07T20:26:31.039141Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.039662Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.040742Z ('127.0.0.1', 53686) [OPENED] RtkAudioService64.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.041586Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] powershell.exe
+
+2025-11-07T20:26:31.043178Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.043840Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] pyw.exe
+
+2025-11-07T20:26:31.045616Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.046458Z ('127.0.0.1', 53686) [OPENED] AERTSr64.exe
+
+2025-11-07T20:26:31.047068Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.047439Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.047924Z ('127.0.0.1', 53686) [OPENED] EwServer.exe
+
+2025-11-07T20:26:31.048352Z ('127.0.0.1', 53686) [OPENED] FNPLicensingService64.exe
+
+2025-11-07T20:26:31.048903Z ('127.0.0.1', 53686) [OPENED] FNPLicensingService.exe
+
+2025-11-07T20:26:31.049580Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.050330Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.050765Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.051103Z ('127.0.0.1', 53686) [OPENED] nvcontainer.exe
+
+2025-11-07T20:26:31.059026Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] remotesolverdispatcherservice.exe
+[OPENED] vmware-authd.exe
+[OPENED] SWVisualize.Queue.Server.exe
+[OPENED] MpDefenderCoreService.exe
+[OPENED] sqlwriter.exe
+[OPENED] vmware-usbarbitrator64.exe
+[OPENED] sqlbrowser.exe
+[OPENED] svchost.exe
+[OPENED] vmnetdhcp.exe
+[OPENED] vmnat.exe
+[OPENED] MsMpEng.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.059627Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.060136Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.060762Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.061137Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.061475Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.061869Z ('127.0.0.1', 53686) [OPENED] dispatcher.exe
+
+2025-11-07T20:26:31.062220Z ('127.0.0.1', 53686) [OPENED] lmgrd.exe
+
+2025-11-07T20:26:31.062606Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.063007Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.063422Z ('127.0.0.1', 53686) [OPENED] audiodg.exe
+
+2025-11-07T20:26:31.063900Z ('127.0.0.1', 53686) [OPENED] vmware-tray.exe
+
+2025-11-07T20:26:31.064324Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.065284Z ('127.0.0.1', 53686) [OPENED] lmgrd.exe
+
+2025-11-07T20:26:31.066092Z ('127.0.0.1', 53686) [OPENED] msedgewebview2.exe
+
+2025-11-07T20:26:31.067192Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.067847Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.071232Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.072288Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:26:31.073003Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:26:31.073773Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.074269Z ('127.0.0.1', 53686) [OPENED] dllhost.exe
+
+2025-11-07T20:26:31.075244Z ('127.0.0.1', 53686) [OPENED] SearchIndexer.exe
+
+2025-11-07T20:26:31.075764Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.076504Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.077476Z ('127.0.0.1', 53686) [OPENED] msedgewebview2.exe
+
+2025-11-07T20:26:31.078204Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.078678Z ('127.0.0.1', 53686) [OPENED] rundll32.exe
+
+2025-11-07T20:26:31.079064Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.079456Z ('127.0.0.1', 53686) [OPENED] powershell.exe
+
+2025-11-07T20:26:31.079836Z ('127.0.0.1', 53686) [OPENED] AggregatorHost.exe
+
+2025-11-07T20:26:31.080204Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.080545Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.080897Z ('127.0.0.1', 53686) [OPENED] powershell.exe
+
+2025-11-07T20:26:31.081274Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.081652Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.081995Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.082342Z ('127.0.0.1', 53686) [OPENED] MoUsoCoreWorker.exe
+
+2025-11-07T20:26:31.083377Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.086351Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.087683Z ('127.0.0.1', 53686) [OPENED] PresentationFontCache.exe
+
+2025-11-07T20:26:31.088545Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.089643Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.090119Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.090636Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.091391Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.092153Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.092784Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.093216Z ('127.0.0.1', 53686) [OPENED] backgroundTaskHost.exe
+
+2025-11-07T20:26:31.093624Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.094000Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.094370Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.094871Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.095445Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.095968Z ('127.0.0.1', 53686) [OPENED] sldworks_fs.exe
+
+2025-11-07T20:26:31.096480Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.096927Z ('127.0.0.1', 53686) [OPENED] Code.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.097306Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.097708Z ('127.0.0.1', 53686) [OPENED] dllhost.exe
+
+2025-11-07T20:26:31.098116Z ('127.0.0.1', 53686) [OPENED] SearchApp.exe
+
+2025-11-07T20:26:31.098555Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.098981Z ('127.0.0.1', 53686) [OPENED] nvsphelper64.exe
+
+2025-11-07T20:26:31.101062Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.102068Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.104416Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.105315Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.105962Z ('127.0.0.1', 53686) [OPENED] UserOOBEBroker.exe
+
+2025-11-07T20:26:31.106436Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.107015Z ('127.0.0.1', 53686) [OPENED] pythonw.exe
+
+2025-11-07T20:26:31.107759Z ('127.0.0.1', 53686) [OPENED] dwm.exe
+
+2025-11-07T20:26:31.109073Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.110146Z ('127.0.0.1', 53686) [OPENED] csrss.exe
+
+2025-11-07T20:26:31.110848Z ('127.0.0.1', 53686) [OPENED] backgroundTaskHost.exe
+
+2025-11-07T20:26:31.111275Z ('127.0.0.1', 53686) [OPENED] nvcontainer.exe
+
+2025-11-07T20:26:31.111629Z ('127.0.0.1', 53686) [OPENED] taskhostw.exe
+
+2025-11-07T20:26:31.112037Z ('127.0.0.1', 53686) [OPENED] explorer.exe
+
+2025-11-07T20:26:31.112536Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.112980Z ('127.0.0.1', 53686) [OPENED] StartMenuExperienceHost.exe
+
+2025-11-07T20:26:31.113604Z ('127.0.0.1', 53686) [OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:26:31.114424Z ('127.0.0.1', 53686) [OPENED] LockApp.exe
+
+2025-11-07T20:26:31.116241Z ('127.0.0.1', 53686) [OPENED] pet.exe
+
+2025-11-07T20:26:31.116977Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.117566Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.117939Z ('127.0.0.1', 53686) [OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:26:31.118870Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.120915Z ('127.0.0.1', 53686) [OPENED] pythonw.exe
+
+2025-11-07T20:26:31.122084Z ('127.0.0.1', 53686) [OPENED] sqlceip.exe
+
+2025-11-07T20:26:31.123180Z ('127.0.0.1', 53686) [OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.124040Z ('127.0.0.1', 53686) [OPENED] SecurityHealthService.exe
+
+2025-11-07T20:26:31.124804Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.125356Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.126146Z ('127.0.0.1', 53686) [OPENED] nvcontainer.exe
+
+2025-11-07T20:26:31.126705Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:26:31.127126Z ('127.0.0.1', 53686) [OPENED] OneDrive.exe
+
+2025-11-07T20:26:31.127522Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.127888Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.128342Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.128705Z ('127.0.0.1', 53686) [OPENED] RAVBg64.exe
+
+2025-11-07T20:26:31.130118Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.130679Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.131494Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.132059Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.132661Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.133113Z ('127.0.0.1', 53686) [OPENED] CalculatorApp.exe
+
+2025-11-07T20:26:31.133714Z ('127.0.0.1', 53686) [OPENED] FileCoAuth.exe
+
+2025-11-07T20:26:31.134108Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.134546Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.136415Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.137288Z ('127.0.0.1', 53686) [OPENED] SearchApp.exe
+
+2025-11-07T20:26:31.138024Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.138560Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.139237Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.139818Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.140216Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.140747Z ('127.0.0.1', 53686) [OPENED] WhatsApp.exe
+
+2025-11-07T20:26:31.141329Z ('127.0.0.1', 53686) [OPENED] ApplicationFrameHost.exe
+
+2025-11-07T20:26:31.142142Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.142771Z ('127.0.0.1', 53686) [OPENED] pyw.exe
+[OPENED] sqlservr.exe
+
+2025-11-07T20:26:31.143234Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.143773Z ('127.0.0.1', 53686) [OPENED] msedge.exe
+
+2025-11-07T20:26:31.144305Z ('127.0.0.1', 53686) [OPENED] Code.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.144716Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.146611Z ('127.0.0.1', 53686) [OPENED] fontdrvhost.exe
+
+2025-11-07T20:26:31.147190Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.147554Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.148168Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.149000Z ('127.0.0.1', 53686) [OPENED] steam.exe
+
+2025-11-07T20:26:31.149562Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.149955Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.150371Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+
+2025-11-07T20:26:31.150781Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.151159Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:26:31.151497Z ('127.0.0.1', 53686) [OPENED] msedge.exe
+
+2025-11-07T20:26:31.152811Z ('127.0.0.1', 53686) [OPENED] sihost.exe
+
+2025-11-07T20:26:31.153975Z ('127.0.0.1', 53686) [OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:26:31.154696Z ('127.0.0.1', 53686) [OPENED] Code.exe
+
+2025-11-07T20:26:31.155309Z ('127.0.0.1', 53686) [OPENED] NVDisplay.Container.exe
+
+2025-11-07T20:26:31.155954Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.156428Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.156799Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:26:31.157456Z ('127.0.0.1', 53686) [OPENED] ShellExperienceHost.exe
+
+2025-11-07T20:26:31.158651Z ('127.0.0.1', 53686) [OPENED] msedge.exe
+
+2025-11-07T20:26:31.159390Z ('127.0.0.1', 53686) [OPENED] SystemSettings.exe
+
+2025-11-07T20:26:31.161026Z ('127.0.0.1', 53686) [OPENED] ctfmon.exe
+
+2025-11-07T20:26:31.161879Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.162297Z ('127.0.0.1', 53686) [OPENED] NisSrv.exe
+
+2025-11-07T20:26:31.163053Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.163502Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+
+2025-11-07T20:26:31.164471Z ('127.0.0.1', 53686) [OPENED] python.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.166184Z ('127.0.0.1', 53686) [OPENED] svchost.exe
+[OPENED] backgroundTaskHost.exe
+[OPENED] SecurityHealthSystray.exe
+
+2025-11-07T20:26:31.167064Z ('127.0.0.1', 53686) [OPENED] sw_d.exe
+[OPENED] msedgewebview2.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.167651Z ('127.0.0.1', 53686) [OPENED] RuntimeBroker.exe
+[OPENED] chrome.exe
+[OPENED] taskhostw.exe
+
+2025-11-07T20:26:31.169732Z ('127.0.0.1', 53686) [OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:26:31.171331Z ('127.0.0.1', 53686) [OPENED] RtkNGUI64.exe
+[OPENED] msedgewebview2.exe
+[OPENED] OneDrive.Sync.Service.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:26:31.172816Z ('127.0.0.1', 53686) [OPENED] TextInputHost.exe
+[OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+
+2025-11-07T20:26:31.173772Z ('127.0.0.1', 53686) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] msedge.exe
+
+2025-11-07T20:26:31.175790Z ('127.0.0.1', 53686) [OPENED] msedgewebview2.exe
+[OPENED] WmiPrvSE.exe
+
+2025-11-07T20:26:31.177059Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+[OPENED] powershell.exe
+[OPENED] powershell.exe
+[OPENED] conhost.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:26:31.177758Z ('127.0.0.1', 53686) [OPENED] python.exe
+[OPENED] python.exe
+
+2025-11-07T20:26:31.178177Z ('127.0.0.1', 53686) [ACTIVE] py.exe
+
+2025-11-07T20:26:53.423675Z ('127.0.0.1', 53686) [ACTIVE] explorer.exe
+
+2025-11-07T20:26:59.489139Z ('127.0.0.1', 53686) [ACTIVE] py.exe
+
+2025-11-07T20:27:07.575259Z ('127.0.0.1', 53686) [OPENED] py.exe
+
+2025-11-07T20:27:07.581371Z ('127.0.0.1', 53686) [OPENED] conhost.exe
+
+2025-11-07T20:27:07.583340Z ('127.0.0.1', 53686) [OPENED] python.exe
+
+2025-11-07T20:27:07.587376Z ('127.0.0.1', 53686) [ACTIVE] python.exe
+
+2025-11-07T20:27:11.622037Z ('127.0.0.1', 53686) [CLOSED] py.exe
+
+2025-11-07T20:27:11.623240Z ('127.0.0.1', 53686) [CLOSED] conhost.exe
+
+2025-11-07T20:27:11.624064Z ('127.0.0.1', 53686) [CLOSED] python.exe
+
+2025-11-07T20:27:11.624788Z ('127.0.0.1', 53686) [ACTIVE] Code.exe
+
+2025-11-07T20:38:17.212243Z ('127.0.0.1', 53803) 5D4EE
+
+2025-11-07T20:45:06.048719Z ('127.0.0.1', 53861) 5D4EE
+
+2025-11-07T20:46:16.873129Z ('127.0.0.1', 53877) 5D4EE
+
+2025-11-07 20:47:04.831214 ('127.0.0.1', 53886) 5D4EE
+
+2025-11-07T20:48:40.729593+00:00 ('127.0.0.1', 53914) 5D4EE
+
+2025-11-07T20:49:37.864371+00:00 ('127.0.0.1', 53924) 5D4EE
+
+2025-11-07T20:50:21.987715+00:00 ('127.0.0.1', 53936) 5D4EE
+
+2025-11-07T20:51:43.243041+00:00 ('127.0.0.1', 53946) 5D4EE
+
+2025-11-07T20:52:16.085089+00:00 ('127.0.0.1', 53968) 5D4EE
+2025-11-07T20:52:59.707669+00:00 ('127.0.0.1', 53974) 5D4EE
+2025-11-07T20:53:09.272590+00:00 ('127.0.0.1', 53976) [OPENED] System Idle Process
+
+2025-11-07T20:53:09.273182+00:00 ('127.0.0.1', 53976) [OPENED] System
+[OPENED] Registry
+[OPENED] smss.exe
+[OPENED] wininit.exe
+[OPENED] csrss.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.273562+00:00 ('127.0.0.1', 53976) [OPENED] services.exe
+[OPENED] winlogon.exe
+
+2025-11-07T20:53:09.275874+00:00 ('127.0.0.1', 53976) [OPENED] lsass.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.280266+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] steamservice.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] taskhostw.exe
+[OPENED] fontdrvhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] RAVBg64.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] CompPkgSrv.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.287598+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] NVDisplay.Container.exe
+
+2025-11-07T20:53:09.292172+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.296532+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] msedge.exe
+[OPENED] nvcontainer.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.302477+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] MemCompression
+[OPENED] igfxCUIService.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.306876+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.311088+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.314925+00:00 ('127.0.0.1', 53976) [OPENED] msedgewebview2.exe
+[OPENED] spoolsv.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.322126+00:00 ('127.0.0.1', 53976) [OPENED] RtkAudioService64.exe
+[OPENED] smartscreen.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.326347+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] powershell.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.329850+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] pyw.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] AERTSr64.exe
+
+2025-11-07T20:53:09.337166+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] EwServer.exe
+
+2025-11-07T20:53:09.341221+00:00 ('127.0.0.1', 53976) [OPENED] FNPLicensingService64.exe
+[OPENED] FNPLicensingService.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] nvcontainer.exe
+[OPENED] conhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.347304+00:00 ('127.0.0.1', 53976) [OPENED] remotesolverdispatcherservice.exe
+[OPENED] vmware-authd.exe
+[OPENED] SWVisualize.Queue.Server.exe
+
+2025-11-07T20:53:09.350544+00:00 ('127.0.0.1', 53976) [OPENED] MpDefenderCoreService.exe
+[OPENED] sqlwriter.exe
+[OPENED] vmware-usbarbitrator64.exe
+[OPENED] sqlbrowser.exe
+[OPENED] svchost.exe
+[OPENED] vmnetdhcp.exe
+[OPENED] vmnat.exe
+
+2025-11-07T20:53:09.354663+00:00 ('127.0.0.1', 53976) [OPENED] MsMpEng.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.358813+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+[OPENED] conhost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.365538+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] dispatcher.exe
+[OPENED] lmgrd.exe
+
+2025-11-07T20:53:09.368841+00:00 ('127.0.0.1', 53976) [OPENED] conhost.exe
+[OPENED] chrome.exe
+[OPENED] vmware-tray.exe
+[OPENED] svchost.exe
+[OPENED] lmgrd.exe
+[OPENED] msedgewebview2.exe
+
+2025-11-07T20:53:09.371785+00:00 ('127.0.0.1', 53976) [OPENED] python.exe
+[OPENED] powershell.exe
+
+2025-11-07T20:53:09.375404+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] RuntimeBroker.exe
+
+2025-11-07T20:53:09.383133+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] dllhost.exe
+
+2025-11-07T20:53:09.387365+00:00 ('127.0.0.1', 53976) [OPENED] SearchIndexer.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] chrome.exe
+[OPENED] rundll32.exe
+[OPENED] chrome.exe
+[OPENED] powershell.exe
+
+2025-11-07T20:53:09.393973+00:00 ('127.0.0.1', 53976) [OPENED] AggregatorHost.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.398187+00:00 ('127.0.0.1', 53976) [OPENED] powershell.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] MoUsoCoreWorker.exe
+
+2025-11-07T20:53:09.402493+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] steamwebhelper.exe
+[OPENED] PresentationFontCache.exe
+
+2025-11-07T20:53:09.408599+00:00 ('127.0.0.1', 53976) [OPENED] conhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.412668+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] backgroundTaskHost.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:53:09.416631+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] Code.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.423185+00:00 ('127.0.0.1', 53976) [OPENED] sldworks_fs.exe
+[OPENED] steamwebhelper.exe
+[OPENED] Code.exe
+[OPENED] chrome.exe
+[OPENED] dllhost.exe
+
+2025-11-07T20:53:09.427829+00:00 ('127.0.0.1', 53976) [OPENED] SearchApp.exe
+[OPENED] chrome.exe
+[OPENED] nvsphelper64.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.431960+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] UserOOBEBroker.exe
+[OPENED] chrome.exe
+[OPENED] pythonw.exe
+[OPENED] dwm.exe
+
+2025-11-07T20:53:09.439266+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] csrss.exe
+[OPENED] backgroundTaskHost.exe
+[OPENED] nvcontainer.exe
+[OPENED] taskhostw.exe
+
+2025-11-07T20:53:09.443196+00:00 ('127.0.0.1', 53976) [OPENED] explorer.exe
+[OPENED] chrome.exe
+[OPENED] StartMenuExperienceHost.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] LockApp.exe
+[OPENED] pet.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.447442+00:00 ('127.0.0.1', 53976) [OPENED] steamwebhelper.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] svchost.exe
+[OPENED] pythonw.exe
+
+2025-11-07T20:53:09.450291+00:00 ('127.0.0.1', 53976) [OPENED] sqlceip.exe
+[OPENED] python.exe
+[OPENED] py.exe
+[OPENED] steamwebhelper.exe
+
+2025-11-07T20:53:09.457309+00:00 ('127.0.0.1', 53976) [OPENED] SecurityHealthService.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.461439+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] nvcontainer.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] OneDrive.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] RAVBg64.exe
+[OPENED] Code.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.465587+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] CalculatorApp.exe
+
+2025-11-07T20:53:09.471785+00:00 ('127.0.0.1', 53976) [OPENED] FileCoAuth.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.475008+00:00 ('127.0.0.1', 53976) [OPENED] SearchApp.exe
+[OPENED] conhost.exe
+[OPENED] chrome.exe
+[OPENED] conhost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:53:09.479090+00:00 ('127.0.0.1', 53976) [OPENED] WhatsApp.exe
+[OPENED] ApplicationFrameHost.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.484806+00:00 ('127.0.0.1', 53976) [OPENED] pyw.exe
+[OPENED] sqlservr.exe
+[OPENED] chrome.exe
+[OPENED] msedge.exe
+[OPENED] Code.exe
+
+2025-11-07T20:53:09.489101+00:00 ('127.0.0.1', 53976) [OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] conhost.exe
+[OPENED] fontdrvhost.exe
+[OPENED] py.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.492981+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] steam.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.498843+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] msedge.exe
+
+2025-11-07T20:53:09.502687+00:00 ('127.0.0.1', 53976) [OPENED] sihost.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] Code.exe
+[OPENED] NVDisplay.Container.exe
+[OPENED] chrome.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:53:09.506497+00:00 ('127.0.0.1', 53976) [OPENED] ShellExperienceHost.exe
+[OPENED] msedge.exe
+[OPENED] SystemSettings.exe
+[OPENED] ctfmon.exe
+
+2025-11-07T20:53:09.510619+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] NisSrv.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.516681+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] backgroundTaskHost.exe
+[OPENED] SecurityHealthSystray.exe
+[OPENED] sw_d.exe
+
+2025-11-07T20:53:09.520729+00:00 ('127.0.0.1', 53976) [OPENED] chrome.exe
+[OPENED] msedgewebview2.exe
+[OPENED] chrome.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.524807+00:00 ('127.0.0.1', 53976) [OPENED] taskhostw.exe
+[OPENED] NVIDIA Overlay.exe
+[OPENED] RtkNGUI64.exe
+[OPENED] conhost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] OneDrive.Sync.Service.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:53:09.530437+00:00 ('127.0.0.1', 53976) [OPENED] TextInputHost.exe
+[OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] python.exe
+
+2025-11-07T20:53:09.533403+00:00 ('127.0.0.1', 53976) [OPENED] backgroundTaskHost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] RuntimeBroker.exe
+
+2025-11-07T20:53:09.537532+00:00 ('127.0.0.1', 53976) [OPENED] msedge.exe
+[OPENED] msedgewebview2.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:53:09.540832+00:00 ('127.0.0.1', 53976) [OPENED] LocationNotificationWindows.exe
+[OPENED] powershell.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:53:09.545836+00:00 ('127.0.0.1', 53976) [OPENED] python.exe
+[OPENED] svchost.exe
+[OPENED] python.exe
+[ACTIVE] py.exe
+
+2025-11-07T20:53:13.598664+00:00 ('127.0.0.1', 53976) [ACTIVE] python.exe
+
+2025-11-07T20:53:15.629119+00:00 ('127.0.0.1', 53976) [CLOSED] backgroundTaskHost.exe
+
+2025-11-07T20:53:15.634541+00:00 ('127.0.0.1', 53976) [CLOSED] LocationNotificationWindows.exe
+
+2025-11-07T20:53:21.693704+00:00 ('127.0.0.1', 53976) [ACTIVE] py.exe
+
+2025-11-07T20:53:27.769700+00:00 ('127.0.0.1', 53976) [CLOSED] RuntimeBroker.exe
+
+2025-11-07T20:53:29.799967+00:00 ('127.0.0.1', 53976) [ACTIVE] python.exe
+
+2025-11-07T20:53:37.895524+00:00 ('127.0.0.1', 53976) [ACTIVE] py.exe
+
+2025-11-07T20:53:46.008645+00:00 ('127.0.0.1', 53976) [ACTIVE] Code.exe
+
+2025-11-07T20:53:58.104823+00:00 ('127.0.0.1', 53976) [ACTIVE] python.exe
+
+2025-11-07T20:54:00.114131+00:00 ('127.0.0.1', 53976) [ACTIVE] py.exe
+
+2025-11-07T20:54:04.130469+00:00 ('127.0.0.1', 53976) [ACTIVE] py.exe
+
+2025-11-07T20:54:16.192072+00:00 ('127.0.0.1', 53976) [ACTIVE] Code.exe
+
+2025-11-07T20:54:20.218519+00:00 ('127.0.0.1', 53976) [CLOSED] python.exe
+
+2025-11-07T20:54:37.893310+00:00 ('127.0.0.1', 53992) 5D4EE
+2025-11-07T20:54:38.804094+00:00 ('127.0.0.1', 53993) [OPENED] System Idle Process
+
+2025-11-07T20:54:38.804570+00:00 ('127.0.0.1', 53993) [OPENED] System
+[OPENED] Registry
+[OPENED] smss.exe
+[OPENED] wininit.exe
+[OPENED] csrss.exe
+
+2025-11-07T20:54:38.804864+00:00 ('127.0.0.1', 53993) [OPENED] Code.exe
+
+2025-11-07T20:54:38.805141+00:00 ('127.0.0.1', 53993) [OPENED] services.exe
+[OPENED] winlogon.exe
+
+2025-11-07T20:54:38.805396+00:00 ('127.0.0.1', 53993) [OPENED] lsass.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.805674+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] steamservice.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.805957+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] taskhostw.exe
+[OPENED] fontdrvhost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.808167+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.810277+00:00 ('127.0.0.1', 53993) [OPENED] NVIDIA Overlay.exe
+[OPENED] RAVBg64.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] CompPkgSrv.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.812732+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.815196+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] NVDisplay.Container.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.817570+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.819706+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] msedge.exe
+[OPENED] nvcontainer.exe
+
+2025-11-07T20:54:38.821751+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.823776+00:00 ('127.0.0.1', 53993) [OPENED] msedgewebview2.exe
+[OPENED] MemCompression
+[OPENED] igfxCUIService.exe
+[OPENED] Code.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.826123+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] RuntimeBroker.exe
+
+2025-11-07T20:54:38.831780+00:00 ('127.0.0.1', 53993) [OPENED] RuntimeBroker.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.834167+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] spoolsv.exe
+
+2025-11-07T20:54:38.836341+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.838648+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] RtkAudioService64.exe
+
+2025-11-07T20:54:38.840920+00:00 ('127.0.0.1', 53993) [OPENED] smartscreen.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.844852+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] powershell.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.847187+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.849956+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] pyw.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.850914+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] AERTSr64.exe
+
+2025-11-07T20:54:38.853030+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.855307+00:00 ('127.0.0.1', 53993) [OPENED] EwServer.exe
+[OPENED] FNPLicensingService64.exe
+
+2025-11-07T20:54:38.857802+00:00 ('127.0.0.1', 53993) [OPENED] FNPLicensingService.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] nvcontainer.exe
+
+2025-11-07T20:54:38.863266+00:00 ('127.0.0.1', 53993) [OPENED] conhost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.865458+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] remotesolverdispatcherservice.exe
+[OPENED] vmware-authd.exe
+[OPENED] SWVisualize.Queue.Server.exe
+[OPENED] MpDefenderCoreService.exe
+
+2025-11-07T20:54:38.867777+00:00 ('127.0.0.1', 53993) [OPENED] sqlwriter.exe
+[OPENED] vmware-usbarbitrator64.exe
+
+2025-11-07T20:54:38.869613+00:00 ('127.0.0.1', 53993) [OPENED] sqlbrowser.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.870318+00:00 ('127.0.0.1', 53993) [OPENED] vmnetdhcp.exe
+
+2025-11-07T20:54:38.872424+00:00 ('127.0.0.1', 53993) [OPENED] vmnat.exe
+[OPENED] MsMpEng.exe
+
+2025-11-07T20:54:38.876499+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.878851+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:38.880946+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.882248+00:00 ('127.0.0.1', 53993) [OPENED] dispatcher.exe
+[OPENED] lmgrd.exe
+
+2025-11-07T20:54:38.884302+00:00 ('127.0.0.1', 53993) [OPENED] conhost.exe
+
+2025-11-07T20:54:38.886457+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] python.exe
+
+2025-11-07T20:54:38.891396+00:00 ('127.0.0.1', 53993) [OPENED] vmware-tray.exe
+[OPENED] svchost.exe
+[OPENED] lmgrd.exe
+
+2025-11-07T20:54:38.892976+00:00 ('127.0.0.1', 53993) [OPENED] msedgewebview2.exe
+[OPENED] powershell.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.895151+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+
+2025-11-07T20:54:38.896057+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] RuntimeBroker.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.897961+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+
+2025-11-07T20:54:38.899915+00:00 ('127.0.0.1', 53993) [OPENED] dllhost.exe
+
+2025-11-07T20:54:38.901787+00:00 ('127.0.0.1', 53993) [OPENED] SearchIndexer.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.903605+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+
+2025-11-07T20:54:38.908495+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] rundll32.exe
+
+2025-11-07T20:54:38.910532+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] powershell.exe
+[OPENED] AggregatorHost.exe
+
+2025-11-07T20:54:38.911899+00:00 ('127.0.0.1', 53993) [OPENED] Code.exe
+[OPENED] powershell.exe
+
+2025-11-07T20:54:38.913585+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.914479+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:38.916263+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] MoUsoCoreWorker.exe
+
+2025-11-07T20:54:38.917665+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:38.920337+00:00 ('127.0.0.1', 53993) [OPENED] steamwebhelper.exe
+[OPENED] PresentationFontCache.exe
+
+2025-11-07T20:54:38.922580+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.924546+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.926721+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:38.928683+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.930748+00:00 ('127.0.0.1', 53993) [OPENED] backgroundTaskHost.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:38.932775+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] Code.exe
+
+2025-11-07T20:54:38.937317+00:00 ('127.0.0.1', 53993) [OPENED] Code.exe
+[OPENED] sldworks_fs.exe
+
+2025-11-07T20:54:38.938964+00:00 ('127.0.0.1', 53993) [OPENED] steamwebhelper.exe
+[OPENED] Code.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.940783+00:00 ('127.0.0.1', 53993) [OPENED] dllhost.exe
+[OPENED] SearchApp.exe
+
+2025-11-07T20:54:38.942511+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] nvsphelper64.exe
+
+2025-11-07T20:54:38.944312+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.946109+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:38.948195+00:00 ('127.0.0.1', 53993) [OPENED] UserOOBEBroker.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.952907+00:00 ('127.0.0.1', 53993) [OPENED] pythonw.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:38.955219+00:00 ('127.0.0.1', 53993) [OPENED] python.exe
+[OPENED] dwm.exe
+
+2025-11-07T20:54:38.956918+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] csrss.exe
+
+2025-11-07T20:54:38.958982+00:00 ('127.0.0.1', 53993) [OPENED] backgroundTaskHost.exe
+[OPENED] nvcontainer.exe
+
+2025-11-07T20:54:38.961027+00:00 ('127.0.0.1', 53993) [OPENED] taskhostw.exe
+[OPENED] explorer.exe
+
+2025-11-07T20:54:38.962984+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] StartMenuExperienceHost.exe
+
+2025-11-07T20:54:38.965870+00:00 ('127.0.0.1', 53993) [OPENED] NVIDIA Overlay.exe
+[OPENED] LockApp.exe
+
+2025-11-07T20:54:38.967759+00:00 ('127.0.0.1', 53993) [OPENED] pet.exe
+
+2025-11-07T20:54:38.968592+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+
+2025-11-07T20:54:38.970486+00:00 ('127.0.0.1', 53993) [OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:54:38.972398+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] pythonw.exe
+
+2025-11-07T20:54:38.974152+00:00 ('127.0.0.1', 53993) [OPENED] sqlceip.exe
+[OPENED] steamwebhelper.exe
+
+2025-11-07T20:54:38.975272+00:00 ('127.0.0.1', 53993) [OPENED] SecurityHealthService.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:38.976306+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:38.978652+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:38.980768+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] nvcontainer.exe
+[OPENED] RuntimeBroker.exe
+
+2025-11-07T20:54:38.983677+00:00 ('127.0.0.1', 53993) [OPENED] OneDrive.exe
+
+2025-11-07T20:54:38.985635+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] RAVBg64.exe
+
+2025-11-07T20:54:38.987857+00:00 ('127.0.0.1', 53993) [OPENED] Code.exe
+[OPENED] Code.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.989757+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.990817+00:00 ('127.0.0.1', 53993) [OPENED] CalculatorApp.exe
+
+2025-11-07T20:54:38.992820+00:00 ('127.0.0.1', 53993) [OPENED] FileCoAuth.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.994874+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:38.999233+00:00 ('127.0.0.1', 53993) [OPENED] SearchApp.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:39.001790+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:39.003874+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:39.005941+00:00 ('127.0.0.1', 53993) [OPENED] WhatsApp.exe
+[OPENED] ApplicationFrameHost.exe
+
+2025-11-07T20:54:39.008003+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] pyw.exe
+
+2025-11-07T20:54:39.009881+00:00 ('127.0.0.1', 53993) [OPENED] sqlservr.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:39.012844+00:00 ('127.0.0.1', 53993) [OPENED] msedge.exe
+[OPENED] Code.exe
+
+2025-11-07T20:54:39.014427+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+
+2025-11-07T20:54:39.016356+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:39.018282+00:00 ('127.0.0.1', 53993) [OPENED] fontdrvhost.exe
+[OPENED] python.exe
+
+2025-11-07T20:54:39.020574+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] steam.exe
+
+2025-11-07T20:54:39.022376+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:39.023981+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:39.025837+00:00 ('127.0.0.1', 53993) [OPENED] RuntimeBroker.exe
+[OPENED] msedge.exe
+
+2025-11-07T20:54:39.030569+00:00 ('127.0.0.1', 53993) [OPENED] sihost.exe
+[OPENED] NVIDIA Overlay.exe
+
+2025-11-07T20:54:39.032544+00:00 ('127.0.0.1', 53993) [OPENED] Code.exe
+[OPENED] NVDisplay.Container.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:39.034920+00:00 ('127.0.0.1', 53993) [OPENED] conhost.exe
+[OPENED] ShellExperienceHost.exe
+
+2025-11-07T20:54:39.037033+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] msedge.exe
+
+2025-11-07T20:54:39.039421+00:00 ('127.0.0.1', 53993) [OPENED] SystemSettings.exe
+[OPENED] ctfmon.exe
+
+2025-11-07T20:54:39.041764+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] NisSrv.exe
+[OPENED] chrome.exe
+
+2025-11-07T20:54:39.044930+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:39.046996+00:00 ('127.0.0.1', 53993) [OPENED] backgroundTaskHost.exe
+[OPENED] SecurityHealthSystray.exe
+[OPENED] sw_d.exe
+
+2025-11-07T20:54:39.047843+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] msedgewebview2.exe
+
+2025-11-07T20:54:39.048760+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:39.050782+00:00 ('127.0.0.1', 53993) [OPENED] RuntimeBroker.exe
+
+2025-11-07T20:54:39.052662+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] taskhostw.exe
+
+2025-11-07T20:54:39.053606+00:00 ('127.0.0.1', 53993) [OPENED] NVIDIA Overlay.exe
+[OPENED] RtkNGUI64.exe
+
+2025-11-07T20:54:39.055385+00:00 ('127.0.0.1', 53993) [OPENED] msedgewebview2.exe
+
+2025-11-07T20:54:39.057815+00:00 ('127.0.0.1', 53993) [OPENED] py.exe
+[OPENED] OneDrive.Sync.Service.exe
+
+2025-11-07T20:54:39.063451+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] TextInputHost.exe
+
+2025-11-07T20:54:39.065829+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-11-07T20:54:39.068109+00:00 ('127.0.0.1', 53993) [OPENED] RuntimeBroker.exe
+[OPENED] msedge.exe
+[OPENED] msedgewebview2.exe
+
+2025-11-07T20:54:39.070266+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+[OPENED] conhost.exe
+
+2025-11-07T20:54:39.071447+00:00 ('127.0.0.1', 53993) [OPENED] py.exe
+[OPENED] powershell.exe
+
+2025-11-07T20:54:39.075392+00:00 ('127.0.0.1', 53993) [OPENED] chrome.exe
+
+2025-11-07T20:54:39.077643+00:00 ('127.0.0.1', 53993) [OPENED] py.exe
+[OPENED] conhost.exe
+[OPENED] python.exe
+
+2025-11-07T20:54:39.079507+00:00 ('127.0.0.1', 53993) [OPENED] svchost.exe
+[OPENED] python.exe
+
+2025-11-07T20:54:39.081095+00:00 ('127.0.0.1', 53993) [OPENED] conhost.exe
+[ACTIVE] py.exe
+
+2025-11-07T20:54:43.102227+00:00 ('127.0.0.1', 53993) [ACTIVE] python.exe
+
+2025-11-07T20:54:53.153570+00:00 ('127.0.0.1', 53993) [ACTIVE] py.exe
+
+2025-11-07T20:54:55.172102+00:00 ('127.0.0.1', 53993) [ACTIVE] python.exe
+
+2025-11-07T20:54:59.196550+00:00 ('127.0.0.1', 53993) [ACTIVE] py.exe
+
+2025-11-07T20:55:01.223525+00:00 ('127.0.0.1', 53993) [ACTIVE] py.exe
+
+2025-11-07T20:55:07.260424+00:00 ('127.0.0.1', 53993) [ACTIVE] python.exe
+
+2025-11-07T20:55:13.328290+00:00 ('127.0.0.1', 53993) [ACTIVE] SearchApp.exe
+
+2025-11-07T20:55:15.338963+00:00 ('127.0.0.1', 53993) [OPENED] SnippingTool.exe
+
+2025-11-07T20:55:15.344543+00:00 ('127.0.0.1', 53993) [ACTIVE] SnippingTool.exe
+
+2025-11-07T20:55:31.525402+00:00 ('127.0.0.1', 53993) [CLOSED] chrome.exe
+
+2025-11-07T20:55:57.854192+00:00 ('127.0.0.1', 53993) [CLOSED] chrome.exe
+
+2025-11-07T20:56:03.952527+00:00 ('127.0.0.1', 53993) [ACTIVE] explorer.exe
+
+2025-11-07T20:56:05.962021+00:00 ('127.0.0.1', 53993) [OPENED] dllhost.exe
+
+2025-11-07T20:56:05.971573+00:00 ('127.0.0.1', 53993) [ACTIVE] SearchApp.exe
+
+2025-11-07T20:56:09.992169+00:00 ('127.0.0.1', 53993) [CLOSED] dllhost.exe
+
+2025-11-07T20:56:18.073648+00:00 ('127.0.0.1', 53993) [ACTIVE] SnippingTool.exe
+
+2025-11-07T20:57:08.502791+00:00 ('127.0.0.1', 53993) [ACTIVE] ApplicationFrameHost.exe
+
+2025-11-07T20:57:14.544581+00:00 ('127.0.0.1', 53993) [ACTIVE] SnippingTool.exe
+
+2025-11-07T20:57:16.562811+00:00 ('127.0.0.1', 53993) [OPENED] audiodg.exe
+
+2025-11-07T20:57:16.565314+00:00 ('127.0.0.1', 53993) [CLOSED] SnippingTool.exe
+[ACTIVE] ApplicationFrameHost.exe
+

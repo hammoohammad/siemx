@@ -7,15 +7,25 @@ import sys
 HOST = "127.0.0.1"
 PORT = 5000
 BUFFER_SIZE = 4096
+CODE = "5D4EE"
 LOG_FILE = os.path.join(os.path.dirname(__file__), "received.log")
 
+admin = False
+adminCon = None
+
 def log_message(msg: str):
-    timestamp = datetime.datetime.utcnow().isoformat() + "Z"
+    global admin
+    global adminCon
+    timestamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
     line = f"{timestamp} {msg}\n"
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line)
+    if admin == True:
+        adminCon.sendall(line.encode())
 
 def handle_client(conn: socket.socket, addr):
+    global admin
+    global adminCon
     try:
         print(f"Connected: {addr}")
         while True:
@@ -26,8 +36,13 @@ def handle_client(conn: socket.socket, addr):
                 text = data.decode("utf-8", errors="replace")
             except Exception:
                 text = repr(data)
-            print(f"{datetime.datetime.utcnow()} Received from {addr}: {text}")
+            print(f"Received from {addr}: {text}")
             log_message(f"{addr} {text}")
+            if text == CODE:
+                conn.sendall('Connected to EDR Server'.encode())
+                print('Code matched. Admin connected.')
+                adminCon = conn
+                admin = True
     except Exception as e:
         print(f"Error with {addr}: {e}")
     finally:
