@@ -14,6 +14,10 @@ A modern, dark-mode SIEM dashboard built with React + Vite, Tailwind CSS, Rechar
 - `npm run build` — production build
 - `npm run preview` — preview production build
 
+# Goto the path first:
+   ```bash
+cd SIEMX\ Frontend\ 2025//SIEMX\ Frontend/
+```
 ## Setup
 1. Install dependencies
    ```bash
