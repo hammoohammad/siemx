@@ -11,7 +11,7 @@ cd SiemX\ Backend\ 2025/siemx/
    pip install pywin32
    ```
 
-2. # Start all the scripts at once (Use CMD Termnial in the code editor):
+2. Start all the scripts at once (Use CMD Termnial in the code editor):
    ```bash
    start python edr.py && start python monitor.py && start python server.py && start python dashboard.py
    ```
