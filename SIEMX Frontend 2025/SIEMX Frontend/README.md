@@ -19,7 +19,13 @@ A modern, dark-mode SIEM dashboard built with React + Vite, Tailwind CSS, Rechar
    ```bash
    npm i
    ```
-2. Start dev server
+
+2. Install vite 
+   ```bash
+   npm install vite
+   ```
+
+3. Start dev server
    ```bash
    npm run dev
    ```
