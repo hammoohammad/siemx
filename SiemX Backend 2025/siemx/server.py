@@ -54,7 +54,7 @@ def normalize_log(l: Dict[str, Any]) -> Dict[str, Any]:
 # Parsing for received.log format
 # -----------------------------
 LINE_RE = re.compile(
-    r"^(?P<timestamp>\S+)\s+\('(?P<ip>[^']+)',\s*(?P<port>\d+)\)\s+\[(?P<state>OPENED|CLOSED|ACTIVE)\]\s+(?P<proc>.+)$"
+    r"^(?P<timestamp>[\d\-:\s]+),\('(?P<ip>[^']+)',\s*(?P<port>\d+)\),\[(?P<state>[A-Z\s]+)\]\s+(?P<data>.+)$"
 )
 
 def parse_log_line(line: str) -> Dict[str, Any]:
@@ -65,13 +65,17 @@ def parse_log_line(line: str) -> Dict[str, Any]:
     ip = m.group("ip")
     port = m.group("port")
     state = m.group("state")
-    proc = m.group("proc")
+    proc = m.group("data")
     if state == "OPENED":
         level = "Medium"
     elif state == "ACTIVE":
         level = "Low"
     else:
         level = "Low"
+    if any(x in proc for x in ["ransomware", r"C:Program Files (x86)", r"C:Program Files"]):
+        level = "High"
+    if state == "OPENED" and any(x in proc for x in ["cmd.exe", "powershell.exe","Taskmgr.exe"]):
+        level = "High"
     msg = f"{proc} {state} from {ip}:{port}"
     return normalize_log({"timestamp": ts, "message": msg, "level": level})
 

@@ -1,0 +1,1096 @@
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] System Idle Process
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] System
+[OPENED] OneDrive.exe
+[OPENED] Registry
+[OPENED] NVIDIA Overlay.exe
+[OPENED] smss.exe
+[OPENED] csrss.exe
+[OPENED] svchost.exe
+[OPENED] fontdrvhost.exe
+[OPENED] svchost.exe
+[OPENED] wininit.exe
+[OPENED] Code.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] services.exe
+[OPENED] lsass.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] msedge.exe
+[OPENED] Code.exe
+[OPENED] M365Copilot.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] msedge.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] NVDisplay.Container.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] RtkNGUI64.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[OPENED] pythonw.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] MemCompression
+[OPENED] igfxCUIService.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] msedge.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] RtkAudioService64.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+[OPENED] spoolsv.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] nvcontainer.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] chrome.exe
+[OPENED] svchost.exe
+[OPENED] RuntimeBroker.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] SearchApp.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] AERTSr64.exe
+[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] vmware-authd.exe
+[OPENED] EwServer.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] nvcontainer.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] vmnetdhcp.exe
+[OPENED] vmnat.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] FNPLicensingService64.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] SWVisualize.Queue.Server.exe
+[OPENED] remotesolverdispatcherservice.exe
+[OPENED] FNPLicensingService.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] python.exe
+[OPENED] sqlwriter.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] vmware-usbarbitrator64.exe
+[OPENED] sqlbrowser.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] chrome.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] steamwebhelper.exe
+[OPENED] OfficeClickToRun.exe
+[OPENED] HPPrintScanDoctorService.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] cmd.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] dispatcher.exe
+
+2025-12-11 14:46:50,('127.0.0.1', 60965),[OPENED] dwm.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] lmgrd.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] NVIDIA Overlay.exe
+[OPENED] msedge.exe
+[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] lmgrd.exe
+[OPENED] RuntimeBroker.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] WmiPrvSE.exe
+[OPENED] svchost.exe
+[OPENED] NVIDIA Overlay.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] WhatsApp.Root.exe
+[OPENED] dllhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] steamwebhelper.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] explorer.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] SearchIndexer.exe
+[OPENED] steamwebhelper.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] sihost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] PresentationFontCache.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] audiodg.exe
+[OPENED] AggregatorHost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] steamwebhelper.exe
+[OPENED] MsMpEng.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] vmware-tray.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] nvcontainer.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RAVBg64.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] chrome.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] StartMenuExperienceHost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] Video.UI.exe
+[OPENED] RuntimeBroker.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] MpDefenderCoreService.exe
+[OPENED] steamwebhelper.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] Code.exe
+[OPENED] TextInputHost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] ctfmon.exe
+[OPENED] chrome.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] chrome.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] taskhostw.exe
+[USER CREATED] DefaultAccount
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] pyw.exe
+[USER CREATED] completed
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[USER CREATED] Administrator
+[OPENED] NVIDIA Overlay.exe
+[USER CREATED] accounts
+[OPENED] nvcontainer.exe
+[USER CREATED] Hammad
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] steamwebhelper.exe
+[USER CREATED] command
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[USER CREATED] WDAGUtilityAccount
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[USER CREATED] Ahmed
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[USER CREATED] for
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] CompPkgSrv.exe
+[USER CREATED] -------------------------------------------------------------------------------
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] steamservice.exe
+[USER CREATED] User
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedge.exe
+[USER CREATED] Guest
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[USER CREATED] The
+[USER CREATED] \\DESKTOP-IPAI8UH
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[USER CREATED] successfully.
+[OPENED] powershell.exe
+[GROUP CREATED] Administrators
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] Code.exe
+[GROUP CREATED] Management
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Log
+[GROUP CREATED] completed
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] winlogon.exe
+[GROUP CREATED] Accounts
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[GROUP CREATED] *Remote
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[GROUP CREATED] Owners
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] steamwebhelper.exe
+[GROUP CREATED] Configuration
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] NVIDIA Overlay.exe
+[GROUP CREATED] *Replicator
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[GROUP CREATED] *__vmware__
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] NisSrv.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Network
+[GROUP CREATED] *Users
+[OPENED] svchost.exe
+[GROUP CREATED] *Access
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+[GROUP CREATED] Operators
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] chrome.exe
+[GROUP CREATED] *Backup
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] for
+[OPENED] SecurityHealthService.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Guests
+[OPENED] SearchApp.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] The
+[OPENED] taskhostw.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Performance
+[GROUP CREATED] *Cryptographic
+[OPENED] rundll32.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] steam.exe
+[GROUP CREATED] successfully.
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[GROUP CREATED] *Device
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+[GROUP CREATED] *Distributed
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] sldworks_fs.exe
+[GROUP CREATED] Group
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] chrome.exe
+[GROUP CREATED] -------------------------------------------------------------------------------
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] taskhostw.exe
+[GROUP CREATED] *Administrators
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedge.exe
+[GROUP CREATED] Control
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+[GROUP CREATED] Monitor
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[GROUP CREATED] \\DESKTOP-IPAI8UH
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *IIS_IUSRS
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *SQLServer2005SQLBrowserUser$DESKTOP-IPAI8UH
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Managed
+[OPENED] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Readers
+[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] COM
+[OPENED] powershell.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Assistance
+[OPENED] smartscreen.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] command
+[OPENED] SystemSettings.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Event
+[OPENED] chrome.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Aliases
+[OPENED] OneDrive.Sync.Service.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Power
+[OPENED] LockApp.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] Users
+[OPENED] pyw.exe
+[GROUP CREATED] Desktop
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *Hyper-V
+[OPENED] powershell.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[GROUP CREATED] *System
+[OPENED] msedge.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] python.exe
+[OPENED] sqlservr.exe
+[OPENED] cmd.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] nvsphelper64.exe
+[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] python.exe
+[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] ApplicationFrameHost.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] pet.exe
+[OPENED] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[OPENED] svchost.exe
+[OPENED] MoUsoCoreWorker.exe
+[OPENED] Code.exe
+[OPENED] fontdrvhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RAVBg64.exe
+[OPENED] NVDisplay.Container.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] RuntimeBroker.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] csrss.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] sqlceip.exe
+[OPENED] svchost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] CalculatorApp.exe
+[OPENED] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] chrome.exe
+[OPENED] dllhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[OPENED] SearchProtocolHost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] ShellExperienceHost.exe
+[OPENED] SecurityHealthSystray.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] sw_d.exe
+[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] python.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] python.exe
+[OPENED] chrome.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] svchost.exe
+[OPENED] msedgewebview2.exe
+[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[OPENED] UserOOBEBroker.exe
+[OPENED] SearchFilterHost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] conhost.exe
+[OPENED] msedgewebview2.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[OPENED] pythonw.exe
+[OPENED] conhost.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[ACTIVE] Code.exe
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:46:51,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:46:53,('127.0.0.1', 60965),[CLOSED] cmd.exe
+
+2025-12-11 14:46:55,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:46:55,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:46:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\f13d5ddd-20a0-4651-8230-9822a8426a2f.tmp
+
+2025-12-11 14:46:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15351e6e.TMP
+
+2025-12-11 14:46:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15351e6e.TMP
+
+2025-12-11 14:46:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15351e6e.TMP
+
+2025-12-11 14:46:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\Cache\Cache_Data\f_000071
+
+2025-12-11 14:47:10,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\temp-index
+
+2025-12-11 14:47:10,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF15354ef4.TMP
+
+2025-12-11 14:47:10,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF15354ef4.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF15354ef4.TMP
+
+2025-12-11 14:47:17,('127.0.0.1', 60965),[OPENED] rg.exe
+
+2025-12-11 14:47:17,('127.0.0.1', 60965),[OPENED] conhost.exe
+
+2025-12-11 14:47:18,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Default\Network\9a06b1ae-45b5-4e37-8bf4-4917e6cb5831.tmp
+
+2025-12-11 14:47:18,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Default\Network\Network Persistent State~RF15356f8c.TMP
+
+2025-12-11 14:47:18,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Default\Network\Network Persistent State~RF15356f8c.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Default\Network\Network Persistent State~RF15356f8c.TMP
+
+2025-12-11 14:47:19,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:19,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:19,('127.0.0.1', 60965),[CLOSED] rg.exe
+
+2025-12-11 14:47:19,('127.0.0.1', 60965),[CLOSED] conhost.exe
+
+2025-12-11 14:47:22,('127.0.0.1', 60965),[DIR CREATED]  C:\Users\Hammad Ahmed\AppData\Roaming\Code\logs\20251211T194607\window1\exthost\vscode.json-language-features
+
+2025-12-11 14:47:22,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\logs\20251211T194607\window1\exthost\vscode.json-language-features\JSON Language Server.log
+
+2025-12-11 14:47:22,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:22,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:23,('127.0.0.1', 60965),[OPENED] Code.exe
+
+2025-12-11 14:47:29,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:29,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:32,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:32,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:38,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] git.exe
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] git.exe
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] conhost.exe
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] git.exe
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] git.exe
+
+2025-12-11 14:47:39,('127.0.0.1', 60965),[OPENED] conhost.exe
+
+2025-12-11 14:47:41,('127.0.0.1', 60965),[CLOSED] git.exe
+
+2025-12-11 14:47:41,('127.0.0.1', 60965),[CLOSED] git.exe
+
+2025-12-11 14:47:41,('127.0.0.1', 60965),[CLOSED] conhost.exe
+
+2025-12-11 14:47:41,('127.0.0.1', 60965),[CLOSED] git.exe
+[CLOSED] git.exe
+
+2025-12-11 14:47:41,('127.0.0.1', 60965),[CLOSED] conhost.exe
+
+2025-12-11 14:47:42,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\npm-cache\_logs\2025-12-11T14_47_42_099Z-debug-0.log
+
+2025-12-11 14:47:42,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\npm-cache\_logs\2025-12-05T13_36_34_341Z-debug-0.log
+
+2025-12-11 14:47:43,('127.0.0.1', 60965),[OPENED] cmd.exe
+
+2025-12-11 14:47:43,('127.0.0.1', 60965),[OPENED] node.exe
+
+2025-12-11 14:47:43,('127.0.0.1', 60965),[OPENED] node.exe
+
+2025-12-11 14:47:43,('127.0.0.1', 60965),[OPENED] esbuild.exe
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\QNN4FJIQTYR4JN7IQ8NF.temp
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations-ms~RF1535dd88.TMP
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations-ms~RF1535dd88.TMP
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations-ms~RF1535dd88.TMP
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Temp\__PSScriptPolicyTest_ugs3nzju.2qm.ps1
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Temp\__PSScriptPolicyTest_tkyitbat.rh4.psm1
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Temp\__PSScriptPolicyTest_ugs3nzju.2qm.ps1
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Temp\__PSScriptPolicyTest_tkyitbat.rh4.psm1
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\HAMMAD~1\AppData\Local\Temp\340c6d7e-061f-4168-98d5-c2e8786f2e73.tmp
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[OPENED] net.exe
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[OPENED] chrome.exe
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[CLOSED] WmiPrvSE.exe
+
+2025-12-11 14:47:47,('127.0.0.1', 60965),[ACTIVE] chrome.exe
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00206b
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00206c
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e20
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00206d
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00206e
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00206f
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002070
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002071
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\20ac041b09c8a833_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\29fc72fa8101bbd8_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\7c6b2d5a416c77dd_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002072
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e21
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002073
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002074
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002075
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e23
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e24
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e26
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e27
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e28
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_001e29
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\d63d0de6fc060f10_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\253ba7bdfb4f6c69_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\375f53690b71b431_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\5371b0838c80db37_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\3673a61a93d29b6b_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\e1b42a1f504fb43e_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\763b0a646e47c9d0_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\67314e48891d12bb_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\f0df4798961fbce3_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\cde3e008a4670f23_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\1502d91c9dab3921_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\594c3a5bb1e46cee_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\c1d488648b70f5b4_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\d8e0a5d193421039_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\d386839a51e0781c_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\f4cb98139e1cb577_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\f20b63a30ea036ec_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\06b8d1e498c4c018_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\455adaa15e8858ce_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\fb3aa63d9aaf417f_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\528e6786a0560320_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\7cbe63f9917a8072_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\2694c687d018ad26_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\80ee4e6fd3c4cf7c_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\0d7d8c7468d8a5e1_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\7fe7f030e115d5f0_0
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\cbfc59fd6da93a11_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\8a31c675152ea76c_0
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\HAMMAD~1\AppData\Local\Temp\d8ca2179-f48f-4ff1-b46f-a664748eb067.tmp
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002076
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[OPENED] chrome.exe
+
+2025-12-11 14:47:49,('127.0.0.1', 60965),[CLOSED] net.exe
+
+2025-12-11 14:47:51,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\temp-index
+
+2025-12-11 14:47:51,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF1535f064.TMP
+
+2025-12-11 14:47:51,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF1535f064.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61\chrome\js\index-dir\the-real-index~RF1535f064.TMP
+
+2025-12-11 14:47:53,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002076
+
+2025-12-11 14:47:53,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002077
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\8b5ff45a-d3de-4943-adfc-3266af8844f1.tmp
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\e3acdee9-9a9f-4810-80fc-2a88c09702b4.tmp
+[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Local State~RF1536064d.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Local State~RF1536064d.TMP
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Local State~RF1536064d.TMP
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536064d.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536064d.TMP
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536064d.TMP
+
+2025-12-11 14:47:57,('127.0.0.1', 60965),[ACTIVE] Code.exe
+
+2025-12-11 14:47:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002077
+
+2025-12-11 14:47:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002078
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\e4179a1b-d029-48ba-9642-491b24e73a9a.tmp
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Secure Preferences~RF15361820.TMP
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Secure Preferences~RF15361820.TMP
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Secure Preferences~RF15361820.TMP
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002078
+
+2025-12-11 14:48:02,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002079
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002079
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207a
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\storage.json.vsctmp
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\storage.json
+
+2025-12-11 14:48:06,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:07,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\SharedStorage-wal
+
+2025-12-11 14:48:07,('127.0.0.1', 60965),[ACTIVE] chrome.exe
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF1536359b.TMP
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF1536359b.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF1536359b.TMP
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207a
+
+2025-12-11 14:48:09,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207b
+
+2025-12-11 14:48:12,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\dfa89424-f6f1-41c5-a213-6a2ebf045e00.tmp
+
+2025-12-11 14:48:12,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15363f3f.TMP
+
+2025-12-11 14:48:12,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15363f3f.TMP
+
+2025-12-11 14:48:12,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF15363f3f.TMP
+
+2025-12-11 14:48:13,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207b
+
+2025-12-11 14:48:13,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207c
+
+2025-12-11 14:48:15,('127.0.0.1', 60965),[CLOSED] SearchProtocolHost.exe
+
+2025-12-11 14:48:15,('127.0.0.1', 60965),[CLOSED] SearchFilterHost.exe
+
+2025-12-11 14:48:17,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207c
+
+2025-12-11 14:48:17,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207d
+
+2025-12-11 14:48:21,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207d
+
+2025-12-11 14:48:21,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207e
+
+2025-12-11 14:48:25,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207e
+
+2025-12-11 14:48:25,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207f
+
+2025-12-11 14:48:29,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00207f
+
+2025-12-11 14:48:29,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002080
+
+2025-12-11 14:48:33,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002080
+
+2025-12-11 14:48:33,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002081
+
+2025-12-11 14:48:37,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002081
+
+2025-12-11 14:48:37,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002082
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[ACTIVE] WhatsApp.Root.exe
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\HAMMAD~1\AppData\Local\Temp\c451b845-f694-4eee-b006-64dc07a1640d.tmp
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016070.log
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016071.ldb
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016041.log
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016072.ldb
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016073.ldb
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016074.ldb
+
+2025-12-11 14:48:38,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016071.ldb
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\HAMMAD~1\AppData\Local\Temp\6399c1f4-4139-4410-b4d7-ae6bd90fd772.tmp
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016075.ldb
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016076.ldb
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016077.ldb
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016078.ldb
+
+2025-12-11 14:48:39,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016079.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016080.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016081.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\015859.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\015974.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016055.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016056.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016057.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016058.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016059.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016068.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016069.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016074.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[OPENED] msedgewebview2.exe
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[ACTIVE] chrome.exe
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016082.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016083.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016084.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016085.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016086.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016050.ldb
+
+2025-12-11 14:48:40,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016051.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016052.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016053.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016054.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016072.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016087.log
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016088.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016070.log
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016089.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016090.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016091.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016092.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016093.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016094.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016095.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002082
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002083
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016096.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016097.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016098.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016073.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016075.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016076.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016077.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016078.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016079.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016080.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016081.ldb
+
+2025-12-11 14:48:41,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016088.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016091.ldb
+
+2025-12-11 14:48:42,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Microsoft\TokenBroker\Cache\5a2a7058cf8d1e56c20e6b19a7c48eb2386d141b.tbres
+
+2025-12-11 14:48:44,('127.0.0.1', 60965),[ACTIVE] WhatsApp.Root.exe
+2025-12-11 14:52:44,('127.0.0.1', 60965),[OPENED] cstrike.exe
+
+2025-12-11 14:48:44,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016099.log
+
+2025-12-11 14:48:44,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016100.ldb
+
+2025-12-11 14:48:44,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016087.log
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016101.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016102.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016103.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016104.log
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016105.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016089.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016090.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016099.log
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016100.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016106.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016107.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016108.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016101.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016102.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016103.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016105.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016109.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016110.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016111.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016112.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016113.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016094.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016095.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016096.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016097.ldb
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016098.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\016108.ldb
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002083
+
+2025-12-11 14:48:45,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002084
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\cb12a2f1-9964-4f62-808e-87f4139c828c.tmp
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536c920.TMP
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536c920.TMP
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536c920.TMP
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\3ed54487-6abc-4ed0-921d-910ad35ae931.tmp
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536ca68.TMP
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536ca68.TMP
+
+2025-12-11 14:48:47,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536ca68.TMP
+
+2025-12-11 14:48:48,('127.0.0.1', 60965),[ACTIVE] chrome.exe
+
+2025-12-11 14:48:48,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Local Storage\leveldb\000189.log
+
+2025-12-11 14:48:48,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Local Storage\leveldb\000190.ldb
+
+2025-12-11 14:48:48,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Local Storage\leveldb\000187.log
+
+2025-12-11 14:48:50,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002084
+
+2025-12-11 14:48:50,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002085
+
+2025-12-11 14:48:50,('127.0.0.1', 60965),[ACTIVE] Code.exe
+
+2025-12-11 14:48:52,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\b4e6d9ec-551c-4528-9207-a3f4c735df48.tmp
+
+2025-12-11 14:48:52,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Preferences~RF1536de2f.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Preferences~RF1536de2f.TMP
+
+2025-12-11 14:48:52,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Preferences~RF1536de2f.TMP
+
+2025-12-11 14:48:54,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002085
+
+2025-12-11 14:48:54,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002086
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002086
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002087
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\storage.json.vsctmp
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\storage.json
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:58,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\1ff9f382-2204-4c77-8269-48a2eb3c4035.tmp
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536f800.TMP
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536f800.TMP
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF1536f800.TMP
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\a4f8c9ad-c7a4-4553-901a-3f9d2de2c6fc.tmp
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536f84e.TMP
+
+2025-12-11 14:48:59,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536f84e.TMP
+[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Local State~RF1536f84e.TMP
+
+2025-12-11 14:49:00,('127.0.0.1', 60965),[ACTIVE] chrome.exe
+
+2025-12-11 14:49:01,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002087
+
+2025-12-11 14:49:01,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002088
+
+2025-12-11 14:49:05,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002088
+
+2025-12-11 14:49:05,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002089
+
+2025-12-11 14:49:08,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Temp\c451b845-f694-4eee-b006-64dc07a1640d.tmp
+
+2025-12-11 14:49:08,('127.0.0.1', 60965),[CLOSED] msedgewebview2.exe
+
+2025-12-11 14:49:08,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:49:08,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\workspaceStorage\e847d056069bf2b0c339ad323932d823\state.vscdb-journal
+
+2025-12-11 14:49:10,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_002089
+
+2025-12-11 14:49:10,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_00208a
+
+2025-12-11 14:49:10,('127.0.0.1', 60965),[FILE CREATED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+2025-12-11 14:49:10,('127.0.0.1', 60965),[FILE DELETED] C:\Users\Hammad Ahmed\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+
+
+
+
+
