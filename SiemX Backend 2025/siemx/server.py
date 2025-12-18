@@ -10,6 +10,8 @@ import os
 import sys
 import re
 from datetime import datetime
+import mysql.connector
+import threading
 
 # -----------------------------
 # In-memory stores
@@ -49,7 +51,33 @@ def normalize_log(l: Dict[str, Any]) -> Dict[str, Any]:
         "level": l.get("level") or l.get("severity") or "Low",
         "message": l.get("message") or l.get("msg") or "",
     }
+class LogDB:
+    def __init__(self):
+        self.conn = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="12345678",
+            database="siemx"
+        )
+        self.cursor = self.conn.cursor()
+        self.lock = threading.Lock()   # optional but safer for multi-thread
 
+    def insert_log(self, ts, ip, port, state, info, severity):
+        try:
+            with self.lock:
+                sql = """
+                    INSERT INTO logsnew1 (timestamp, ip, port, state, info, severity)
+                    VALUES (%s, %s, %s, %s, %s, %s)
+                """
+                self.cursor.execute(sql, (ts, ip, port, state, info, severity))
+                self.conn.commit()
+        except Exception as e:
+            print("DB insert error:", e)
+
+    def close(self):
+        self.cursor.close()
+        self.conn.close()
+db = LogDB()
 # -----------------------------
 # Parsing for received.log format
 # -----------------------------
@@ -77,7 +105,38 @@ def parse_log_line(line: str) -> Dict[str, Any]:
     if state == "OPENED" and any(x in proc for x in ["cmd.exe", "powershell.exe","Taskmgr.exe"]):
         level = "High"
     msg = f"{proc} {state} from {ip}:{port}"
+    db.insert_log(
+            ts,
+            ip,
+            int(port),     # convert port to int
+            state,
+            proc,
+            level
+        )
     return normalize_log({"timestamp": ts, "message": msg, "level": level})
+
+def parse_alert_line(line: str) -> Dict[str, Any]:
+    m = LINE_RE.match(line)
+    if not m:
+        return normalize_alert({"status": line.strip(), "level": "Low"})
+    ts = m.group("timestamp")
+    ip = m.group("ip")
+    port = m.group("port")
+    state = m.group("state")
+    proc = m.group("data")
+    if state == "OPENED":
+        level = "Medium"
+    elif state == "ACTIVE":
+        level = "Low"
+    else:
+        level = "Low"
+    if any(x in proc for x in ["ransomware", r"C:Program Files (x86)", r"C:Program Files"]):
+        level = "High"
+    if state == "OPENED" and any(x in proc for x in ["cmd.exe", "powershell.exe","Taskmgr.exe"]):
+        level = "High"
+    msg = f"{proc} {state} from {ip}:{port}"
+
+    return normalize_alert({"timestamp": ts, "source": ip, "destination": 'self', "level": level, "status": state, "action": proc})
 
 # -----------------------------
 # App + CORS
@@ -166,6 +225,8 @@ def seed_last_lines(path: str, max_lines: int = 200):
         if not line:
             continue
         LOGS.insert(0, parse_log_line(line))
+        ALERTS.insert(0, parse_alert_line(line))
+    del ALERTS[MAX_ALERTS:]
     del LOGS[MAX_LOGS:]
 
 async def tail_file(path: str):
@@ -182,6 +243,8 @@ async def tail_file(path: str):
                 if not line:
                     continue
                 LOGS.insert(0, parse_log_line(line))
+                ALERTS.insert(0, parse_alert_line(line))
+                del ALERTS[MAX_ALERTS:]
                 del LOGS[MAX_LOGS:]
     except asyncio.CancelledError:
         return
@@ -205,6 +268,8 @@ async def run_monitor_subprocess(script_path: str):
             if not line:
                 continue
             LOGS.insert(0, parse_log_line(line))
+            ALERTS.insert(0, parse_alert_line(line))
+            del ALERTS[MAX_ALERTS:]
             del LOGS[MAX_LOGS:]
     except asyncio.CancelledError:
         proc.terminate()

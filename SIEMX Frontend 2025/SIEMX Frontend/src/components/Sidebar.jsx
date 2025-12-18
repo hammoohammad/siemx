@@ -7,7 +7,7 @@ const nav = [
   { to: '/', label: 'Dashboard', icon: LayoutDashboard },
   { to: '/alerts', label: 'Alerts', icon: Bell },
   { to: '/logs', label: 'Logs', icon: List },
-  { to: '/ai-actions', label: 'AI Actions', icon: Brain },
+  { to: '/ai-actions', label: 'Insights', icon: Brain },
   { to: '/settings', label: 'Settings', icon: SettingsIcon },
 ];
 
