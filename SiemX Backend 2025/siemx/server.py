@@ -29,6 +29,7 @@ MAX_INSIGHTS = 200
 # -----------------------------
 BASE_DIR = os.path.dirname(__file__)
 LOG_FILE_PATH = os.path.join(BASE_DIR, "received.log")
+ALERT_FILE_PATH = os.path.join(BASE_DIR, "alerts.txt")
 
 # -----------------------------
 # Normalizers (map flexible fields to UI shape)
@@ -84,6 +85,14 @@ db = LogDB()
 LINE_RE = re.compile(
     r"^(?P<timestamp>[\d\-:\s]+),\('(?P<ip>[^']+)',\s*(?P<port>\d+)\),\[(?P<state>[A-Z\s]+)\]\s+(?P<data>.+)$"
 )
+ALERT_RE = re.compile(
+    r'"timestamp"\s*:\s*"(?P<timestamp>[^"]+)"\s*,\s*'
+    r'"source"\s*:\s*"(?P<source>[^"]+)"\s*,\s*'
+    r'"destination"\s*:\s*"(?P<destination>[^"]+)"\s*,\s*'
+    r'"level"\s*:\s*"(?P<level>[^"]+)"\s*,\s*'
+    r'"status"\s*:\s*"(?P<status>[^"]+)"\s*,\s*'
+    r'"action"\s*:\s*"(?P<action>[^"]+)"'
+)
 
 def parse_log_line(line: str) -> Dict[str, Any]:
     m = LINE_RE.match(line)
@@ -116,28 +125,25 @@ def parse_log_line(line: str) -> Dict[str, Any]:
     return normalize_log({"timestamp": ts, "message": msg, "level": level})
 
 def parse_alert_line(line: str) -> Dict[str, Any]:
-    m = LINE_RE.match(line)
+    m = ALERT_RE.search(line)
     if not m:
-        return normalize_alert({"status": line.strip(), "level": "Low"})
-    ts = m.group("timestamp")
-    ip = m.group("ip")
-    port = m.group("port")
-    state = m.group("state")
-    proc = m.group("data")
-    if state == "OPENED":
-        level = "Medium"
-    elif state == "ACTIVE":
-        level = "Low"
-    else:
-        level = "Low"
-    if any(x in proc for x in ["ransomware", r"C:Program Files (x86)", r"C:Program Files"]):
-        level = "High"
-    if state == "OPENED" and any(x in proc for x in ["cmd.exe", "powershell.exe","Taskmgr.exe"]):
-        level = "High"
-    msg = f"{proc} {state} from {ip}:{port}"
+        return normalize_alert({
+            "timestamp": "",
+            "source": "unknown",
+            "destination": "unknown",
+            "level": "Low",
+            "status": "Invalid alert line",
+            "action": "None"
+        })
 
-    return normalize_alert({"timestamp": ts, "source": ip, "destination": 'self', "level": level, "status": state, "action": proc})
-
+    return normalize_alert({
+        "timestamp": m.group("timestamp"),
+        "source": m.group("source"),
+        "destination": m.group("destination"),
+        "level": m.group("level"),
+        "status": m.group("status"),
+        "action": m.group("action"),
+    })
 # -----------------------------
 # App + CORS
 # -----------------------------
@@ -145,6 +151,7 @@ def parse_alert_line(line: str) -> Dict[str, Any]:
 async def lifespan(app: FastAPI):
     tasks: List[asyncio.Task] = []
     log_path = LOG_FILE_PATH  # <<< use relative path
+    alert_path = ALERT_FILE_PATH  # <<< use relative path
 
     # Seed last lines so UI shows data immediately
     try:
@@ -155,6 +162,7 @@ async def lifespan(app: FastAPI):
     # Tail in background if the file exists
     if os.path.exists(log_path):
         tasks.append(asyncio.create_task(tail_file(log_path)))
+        tasks.append(asyncio.create_task(tail_file2(alert_path)))
 
     # If you later want to pipe monitor.py/edr.py stdout, uncomment:
     # tasks.append(asyncio.create_task(run_monitor_subprocess(os.path.join(BASE_DIR, "monitor.py"))))
@@ -225,6 +233,13 @@ def seed_last_lines(path: str, max_lines: int = 200):
         if not line:
             continue
         LOGS.insert(0, parse_log_line(line))
+    
+    with open('alerts.txt', "r", encoding="utf-8", errors="ignore") as f:
+        lines = f.readlines()[-max_lines:]
+    for line in reversed(lines):
+        line = line.strip()
+        if not line:
+            continue
         ALERTS.insert(0, parse_alert_line(line))
     del ALERTS[MAX_ALERTS:]
     del LOGS[MAX_LOGS:]
@@ -243,12 +258,26 @@ async def tail_file(path: str):
                 if not line:
                     continue
                 LOGS.insert(0, parse_log_line(line))
-                ALERTS.insert(0, parse_alert_line(line))
-                del ALERTS[MAX_ALERTS:]
                 del LOGS[MAX_LOGS:]
     except asyncio.CancelledError:
         return
-
+async def tail_file2(path: str):
+    """Tail received.log and push structured entries into LOGS."""
+    try:
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            f.seek(0, os.SEEK_END)  # start from end
+            while True:
+                line = f.readline()
+                if not line:
+                    await asyncio.sleep(0.5)
+                    continue
+                line = line.strip()
+                if not line:
+                    continue
+                ALERTS.insert(0, parse_alert_line(line))
+                del ALERTS[MAX_ALERTS:]
+    except asyncio.CancelledError:
+        return
 # -----------------------------
 # Optional: pipe monitor.py / edr.py stdout
 # -----------------------------

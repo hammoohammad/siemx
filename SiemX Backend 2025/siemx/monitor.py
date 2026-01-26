@@ -81,7 +81,7 @@ class FSMonitor(FileSystemEventHandler):
             else:
                 sock.sendall(f"[FILE CREATED] {event.src_path}\n".encode()) 
 
-    def on_deleted(self, event):
+    def on_deleted(self, event):    
         if event.is_directory:
             print(f"[DIR DELETED]  {event.src_path}")
             sock.sendall(f"[DIR DELETED]  {event.src_path}\n".encode())
@@ -91,6 +91,20 @@ class FSMonitor(FileSystemEventHandler):
                 pass
             else:
                 sock.sendall(f"[FILE DELETED] {event.src_path}\n".encode())
+    def on_moved(self, event):
+        if event.is_directory:
+            print(f"[DIR RENAMED]  {event.src_path} -> {event.dest_path}")
+            sock.sendall(
+                f"[DIR RENAMED] {event.src_path} -> {event.dest_path}\n".encode()
+            )
+        else:
+            print(f"[FILE RENAMED] {event.src_path} -> {event.dest_path}")
+            if "Users" in event.dest_path and "AppData" in event.dest_path:
+                pass
+            else:
+                sock.sendall(
+                    f"[FILE RENAMED] {event.src_path} -> {event.dest_path}\n".encode()
+                )
 
 
 def monitor_filesystem(path_to_watch):
@@ -158,7 +172,7 @@ if __name__ == "__main__":
     t1 = threading.Thread(target=monitor_users_and_groups, daemon=True)
     t1.start()
 
-    watch_path = "C:"
+    watch_path = "C:/"
     t2 = threading.Thread(target=monitor_filesystem, args=(watch_path,), daemon=True)
     t2.start()
     monitor_programs()

@@ -1,0 +1,128 @@
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "fontdrvhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "services.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "lsass.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "nvdisplay.container.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "runtimebroker.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "spoolsv.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "ravbg64.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "searchapp.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "aertsr64.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "hpprintscandoctorservice.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "fnplicensingservice64.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "code.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "nvcontainer.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "remotesolverdispatcherservice.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "applicationframehost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "vmware-authd.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "vmnetdhcp.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "mysqld.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "python.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "lmgrd.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "presentationfontcache.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "searchindexer.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "python.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "esbuild.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "aggregatorhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "comppkgsrv.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "explorer.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "pet.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "node.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "sdxhelper.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "node.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "chrome.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "searchapp.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "chrome.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "pythonw.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "pythonw.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "steamwebhelper.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "dashost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "code.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "securityhealthsystray.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "steam.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "steamservice.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "steamwebhelper.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "steamwebhelper.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "code.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "python.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "powershell.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:43", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:14:49", "source": "process", "destination": "net1.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:14:49", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:14:49", "source": "process", "destination": "net.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:14:51", "source": "process", "destination": "net1.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:14:51", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:14:51", "source": "process", "destination": "net.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:15:19", "source": "process", "destination": "conhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:19", "source": "process", "destination": "smartscreen.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:19", "source": "process", "destination": "py.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:21", "source": "process", "destination": "dllhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:25", "source": "process", "destination": "svchost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:29", "source": "process", "destination": "locationnotificationwindows.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:29", "source": "process", "destination": "backgroundtaskhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:15:48", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:15:50", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$IFY8OXL.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$I39NK0F.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$IS5WORA.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$ISH2Q0D.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$IIIZ559.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:22", "source": "filesystem", "destination": "C:/$Recycle.Bin\\S-1-5-21-1013686638-830300200-12646915-1001\\$RIIZ559.txt", "level": "Medium", "status": "Suspicious Location", "action": "Monitor"}
+{"timestamp": "2026-01-26 18:16:24", "source": "process", "destination": "dllhost.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:16:44", "source": "process", "destination": "net.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:16:44", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:16:46", "source": "process", "destination": "net.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:16:46", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:16:56", "source": "C:/Users\\Hammad Ahmed\\Desktop\\fyp\\siemx\\Attacks\\test.txt", "destination": "C:/Users\\Hammad Ahmed\\Desktop\\fyp\\siemx\\Attacks\\test_renamed.txt", "level": "High", "status": "Multiple Renames", "action": "Quarantine File"}
+{"timestamp": "2026-01-26 18:17:18", "source": "process", "destination": "snippingtool.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:17:34", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:17:40", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:17:42", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:18:31", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:18:33", "source": "process", "destination": "cmd.exe", "level": "High", "status": "Detected", "action": "Monitor / Investigate"}
+{"timestamp": "2026-01-26 18:18:33", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}
+{"timestamp": "2026-01-26 18:18:35", "source": "process", "destination": "msedgewebview2.exe", "level": "Low", "status": "Observed", "action": "Allow"}
+{"timestamp": "2026-01-26 18:18:35", "source": "process", "destination": "cmd.exe", "level": "Medium", "status": "Closed", "action": "Log activity"}

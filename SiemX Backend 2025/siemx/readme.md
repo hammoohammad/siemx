@@ -13,7 +13,7 @@ cd SiemX\ Backend\ 2025/siemx/
 
 2. Start all the scripts at once (Use CMD Termnial in the code editor):
    ```bash
-   start python edr.py && start python monitor.py && start python server.py && start python dashboard.py
+   start python edr.py && start python monitor.py && start python server.py && start python dashboard.py && start python soar.py
    ```
    If the above commnad is not working then start all the scripts manualy
 
