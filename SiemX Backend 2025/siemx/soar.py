@@ -7,11 +7,18 @@ LOG_FILE = "received.log"
 ALERT_FILE = "alerts.txt"
 
 SUSPICIOUS_PROCS = {"cmd.exe", "net.exe", "net1.exe"}
+RANSOMWARE_EXTS = {
+    ".moka", ".kuub", ".locked", ".bad", ".crypt", ".xyz", ".EncryptedFile",
+    ".encrypt", ".crypto", ".virus", ".locker", ".block", ".nolongr", ".crypak",
+    ".payms", ".pico", ".shit", ".fuck", ".sensorstechforum", ".sodinokibi",
+    ".lilith", ".alice", ".eve", ".doomed", ".ruhr", ".ransom"
+}  # Common ransomware file extensions
 RENAME_TRACK = {}  # track rapid renames
+LOGIN_TRACK = {}  # track recent failed login timestamps per address
 
 
 LOG_RE = re.compile(
-    r"^(?P<ts>[\d\-: ]+),\('\d+\.\d+\.\d+\.\d+', \d+\),\[(?P<state>[^\]]+)\]\s+(?P<data>.+)$"
+    r"^(?P<ts>[\d\-: ]+),\((?P<addr>[^)]+)\),\[(?P<state>[^\]]+)\]\s*(?P<data>.*)$"
 )
 
 
@@ -30,11 +37,38 @@ def write_alert(ts, source, dest, level, status, action):
     print("[ALERT]", alert)
 
 
-def analyze_log(ts, state, data):
-    now = datetime.now().isoformat()
+def is_ransomware_extension(filepath):
+    """Check if file has a suspicious ransomware extension"""
+    for ext in RANSOMWARE_EXTS:
+        if filepath.lower().endswith(ext):
+            return True
+    return False
 
-    # ---- Process execution ----
-    if state == "OPENED" and data.lower().endswith(".exe"):
+
+def analyze_log(ts, state, data, addr):
+    state_u = state.strip().upper()
+
+   
+    if state_u == "LOGIN":
+        if "failed" in data.lower():
+            try:
+                t = datetime.fromisoformat(ts.strip())
+            except Exception:
+                t = datetime.now()
+
+            prev = LOGIN_TRACK.get(addr)
+            if prev and (t - prev).total_seconds() <= 60:
+                write_alert(
+                    ts, addr, "auth",
+                    "High", "Bruteforce",
+                    "Block IP"
+                )
+                LOGIN_TRACK.pop(addr, None)
+            else:
+                LOGIN_TRACK[addr] = t
+
+   
+    if state_u == "OPENED" and data.lower().endswith(".exe"):
         proc = data.lower()
 
         if proc in SUSPICIOUS_PROCS:
@@ -50,36 +84,52 @@ def analyze_log(ts, state, data):
                 "Allow"
             )
 
-    # ---- Process closed ----
-    if state == "CLOSED" and data.lower() in SUSPICIOUS_PROCS:
+  
+    if state_u == "CLOSED" and data.lower() in SUSPICIOUS_PROCS:
         write_alert(
             ts, "process", data,
             "Medium", "Closed",
             "Log activity"
         )
 
-    # ---- File created ----
-    if state == "FILE CREATED":
+  
+    if state_u == "FILE CREATED":
         if "$Recycle.Bin" in data:
             write_alert(
                 ts, "filesystem", data,
                 "Medium", "Suspicious Location",
                 "Monitor"
             )
+        
+        # Check for ransomware extensions
+        if is_ransomware_extension(data):
+            write_alert(
+                ts, "filesystem", data,
+                "Critical", "Ransomware Extension Detected",
+                "Quarantine Immediately"
+            )
 
-    # ---- File renamed ----
-    if state == "FILE RENAMED":
+    
+    if state_u == "FILE RENAMED":
         old, new = data.split(" -> ")
         base = old.split("\\")[-1]
 
         RENAME_TRACK.setdefault(base, []).append(time.time())
 
-        # rapid rename detection
+        
         if len(RENAME_TRACK[base]) >= 2:
             write_alert(
                 ts, old, new,
                 "High", "Multiple Renames",
                 "Quarantine File"
+            )
+        
+        # Check if file was renamed to ransomware extension
+        if is_ransomware_extension(new):
+            write_alert(
+                ts, old, new,
+                "Critical", "File Renamed to Ransomware Extension",
+                "Quarantine Immediately"
             )
 
 
@@ -102,10 +152,11 @@ def tail_log():
                 continue
 
             ts = m.group("ts")
+            addr = m.group("addr")
             state = m.group("state")
             data = m.group("data")
 
-            analyze_log(ts, state, data)
+            analyze_log(ts, state, data, addr)
 
 
 if __name__ == "__main__":
